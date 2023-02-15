@@ -1,0 +1,2 @@
+# CosBit
+Discord Bot
