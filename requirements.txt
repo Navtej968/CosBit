@@ -1,0 +1,2 @@
+discord==2.0.0
+datetime==4.7
