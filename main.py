@@ -28,7 +28,7 @@ async def send_message():
     now = datetime.now()
     tdate = now.strftime("%d-%m")
 
-    for i in range(0, 30):
+    for i in range(0, 39):
         if check[i]['Bday'] == tdate:
             channel = client.get_channel(1014507327497437267)
             await channel.send(
