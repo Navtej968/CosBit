@@ -10,5 +10,5 @@ It uses 'https://jokeapi.dev/' API to send a random programming joke on command.
         alt="Picture" 
         width="800" 
         height="600" 
-        style="display: block; margin: 0 auto" />
+        style="display: block; margin: 0 auto align:center" />
 
