@@ -6,5 +6,5 @@ It uses 'https://jokeapi.dev/' API to send a random programming joke on command.
 
 
 
-![Alt text](https://imgs.search.brave.com/mnshUiBhtEnWSmaP09WnSptLvBin5jpg7Cl1e6hHu-E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZG9hYmxlZGFubnku/Y29tL3N0YXRpYy8z/M2VmODczN2VjOTM0/MTYzMjBkYWI3OTVk/NGEzOTljNS82MjQw/Ny8xLmpwZw)
+<figure> <img src="https://imgs.search.brave.com/mnshUiBhtEnWSmaP09WnSptLvBin5jpg7Cl1e6hHu-E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZG9hYmxlZGFubnku/Y29tL3N0YXRpYy8z/M2VmODczN2VjOTM0/MTYzMjBkYWI3OTVk/NGEzOTljNS82MjQw/Ny8xLmpwZw" alt="Alt text for the image" width="500" height="300" /> <figcaption> comparison.</figcaption> </figure>
 
